@@ -1,0 +1,12 @@
+F:\Csharp\caro3\caro3\bin\Debug\caro3.exe.config
+F:\Csharp\caro3\caro3\bin\Debug\caro3.exe
+F:\Csharp\caro3\caro3\bin\Debug\caro3.pdb
+F:\Csharp\caro3\caro3\obj\Debug\caro3.csprojAssemblyReference.cache
+F:\Csharp\caro3\caro3\obj\Debug\caro3.Form1.resources
+F:\Csharp\caro3\caro3\obj\Debug\caro3.Properties.Resources.resources
+F:\Csharp\caro3\caro3\obj\Debug\caro3.csproj.GenerateResource.cache
+F:\Csharp\caro3\caro3\obj\Debug\caro3.csproj.CoreCompileInputs.cache
+F:\Csharp\caro3\caro3\obj\Debug\caro3.exe
+F:\Csharp\caro3\caro3\obj\Debug\caro3.pdb
+F:\Csharp\caro3\caro3\obj\Debug\Interop.WMPLib.dll
+F:\Csharp\caro3\caro3\obj\Debug\caro3.csproj.ResolveComReference.cache
