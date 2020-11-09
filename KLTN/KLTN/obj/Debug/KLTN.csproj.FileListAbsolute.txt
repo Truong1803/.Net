@@ -1,0 +1,46 @@
+c:\users\chu du\documents\visual studio 2013\Projects\KLTN\KLTN\bin\Debug\KLTN.exe.config
+c:\users\chu du\documents\visual studio 2013\Projects\KLTN\KLTN\bin\Debug\KLTN.exe
+c:\users\chu du\documents\visual studio 2013\Projects\KLTN\KLTN\bin\Debug\KLTN.pdb
+c:\users\chu du\documents\visual studio 2013\Projects\KLTN\KLTN\obj\Debug\KLTN.csprojResolveAssemblyReference.cache
+c:\users\chu du\documents\visual studio 2013\Projects\KLTN\KLTN\obj\Debug\KLTN.frmLogin.resources
+c:\users\chu du\documents\visual studio 2013\Projects\KLTN\KLTN\obj\Debug\KLTN.Properties.Resources.resources
+c:\users\chu du\documents\visual studio 2013\Projects\KLTN\KLTN\obj\Debug\KLTN.csproj.GenerateResource.Cache
+c:\users\chu du\documents\visual studio 2013\Projects\KLTN\KLTN\obj\Debug\KLTN.exe
+c:\users\chu du\documents\visual studio 2013\Projects\KLTN\KLTN\obj\Debug\KLTN.pdb
+c:\users\chu du\documents\visual studio 2013\Projects\KLTN\KLTN\obj\Debug\KLTN.frmResetPass.resources
+c:\users\chu du\documents\visual studio 2013\Projects\KLTN\KLTN\obj\Debug\KLTN.frmPhongDaoTao.resources
+c:\users\chu du\documents\visual studio 2013\Projects\KLTN\KLTN\obj\Debug\KLTN.frmGiangVien.resources
+c:\users\chu du\documents\visual studio 2013\Projects\KLTN\KLTN\obj\Debug\KLTN.frmTruongBoMon.resources
+c:\users\chu du\documents\visual studio 2013\Projects\KLTN\KLTN\obj\Debug\KLTN.frmSinhVien.resources
+C:\Users\Chu Du\Documents\Visual Studio 2013\Projects\KLTN\KLTN\obj\Debug\KLTN.frmDKKhoaLuan.resources
+C:\Users\Chu Du\Documents\Visual Studio 2013\Projects\KLTN\KLTN\obj\Debug\KLTN.frmDSGiangVien.resources
+C:\Users\Chu Du\Documents\Visual Studio 2013\Projects\KLTN\KLTN\obj\Debug\KLTN.frmNopDeCuong.resources
+C:\Users\Chu Du\Documents\Visual Studio 2013\Projects\KLTN\KLTN\obj\Debug\KLTN.frmNopND.resources
+C:\Users\Chu Du\Documents\Visual Studio 2013\Projects\KLTN\KLTN\obj\Debug\KLTN.frmDangKiDeTai.resources
+C:\Users\Chu Du\Documents\Visual Studio 2013\Projects\KLTN\KLTN\obj\Debug\KLTN.frmDeXuatDeTai.resources
+C:\Users\Chu Du\Documents\Visual Studio 2013\Projects\KLTN\KLTN\obj\Debug\KLTN.frmBaoCaoTienDo.resources
+C:\Users\Chu Du\Documents\Visual Studio 2013\Projects\KLTN\KLTN\obj\Debug\KLTN.frmDeXuatGio.resources
+C:\Users\Truong\Downloads\KLTN\KLTN\KLTN\bin\Debug\KLTN.exe.config
+C:\Users\Truong\Downloads\KLTN\KLTN\KLTN\bin\Debug\KLTN.exe
+C:\Users\Truong\Downloads\KLTN\KLTN\KLTN\bin\Debug\KLTN.pdb
+C:\Users\Truong\Downloads\KLTN\KLTN\KLTN\obj\Debug\KLTN.csprojAssemblyReference.cache
+C:\Users\Truong\Downloads\KLTN\KLTN\KLTN\obj\Debug\KLTN.frmLogin.resources
+C:\Users\Truong\Downloads\KLTN\KLTN\KLTN\obj\Debug\KLTN.frmBaoCaoTienDo.resources
+C:\Users\Truong\Downloads\KLTN\KLTN\KLTN\obj\Debug\KLTN.frmDangKiDeTai.resources
+C:\Users\Truong\Downloads\KLTN\KLTN\KLTN\obj\Debug\KLTN.frmDeXuatDeTai.resources
+C:\Users\Truong\Downloads\KLTN\KLTN\KLTN\obj\Debug\KLTN.frmDeXuatGio.resources
+C:\Users\Truong\Downloads\KLTN\KLTN\KLTN\obj\Debug\KLTN.frmDKKhoaLuan.resources
+C:\Users\Truong\Downloads\KLTN\KLTN\KLTN\obj\Debug\KLTN.frmDSGiangVien.resources
+C:\Users\Truong\Downloads\KLTN\KLTN\KLTN\obj\Debug\KLTN.frmGiangVien.resources
+C:\Users\Truong\Downloads\KLTN\KLTN\KLTN\obj\Debug\KLTN.frmNopDeCuong.resources
+C:\Users\Truong\Downloads\KLTN\KLTN\KLTN\obj\Debug\KLTN.frmNopND.resources
+C:\Users\Truong\Downloads\KLTN\KLTN\KLTN\obj\Debug\KLTN.frmPhongDaoTao.resources
+C:\Users\Truong\Downloads\KLTN\KLTN\KLTN\obj\Debug\KLTN.frmResetPass.resources
+C:\Users\Truong\Downloads\KLTN\KLTN\KLTN\obj\Debug\KLTN.frmSinhVien.resources
+C:\Users\Truong\Downloads\KLTN\KLTN\KLTN\obj\Debug\KLTN.frmTruongBoMon.resources
+C:\Users\Truong\Downloads\KLTN\KLTN\KLTN\obj\Debug\KLTN.Properties.Resources.resources
+C:\Users\Truong\Downloads\KLTN\KLTN\KLTN\obj\Debug\KLTN.csproj.GenerateResource.cache
+C:\Users\Truong\Downloads\KLTN\KLTN\KLTN\obj\Debug\KLTN.csproj.CoreCompileInputs.cache
+C:\Users\Truong\Downloads\KLTN\KLTN\KLTN\obj\Debug\KLTN.exe
+C:\Users\Truong\Downloads\KLTN\KLTN\KLTN\obj\Debug\KLTN.pdb
+C:\Users\Truong\Downloads\KLTN\KLTN\KLTN\obj\Debug\KLTN.frmXemChiTiet.resources
